@@ -1,0 +1,75 @@
+.title{
+	margin-top: 82px;
+       color: #5863F8
+}
+.title2{
+	color: #5863F8
+}
+.title,
+.title2{
+	font-family: 'Festive', cursive;
+       font-family: 'IBM Plex Sans', sans-serif;
+       font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+       font-family: 'IBM Plex Serif', serif;
+       font-family: 'Poppins', sans-serif;
+       font-family: 'PT Sans', sans-serif;
+}
+.text{
+	width: 498px;
+       font-size: 42px;
+       font-family: 'Festive', cursive;
+       font-family: 'IBM Plex Sans', sans-serif;
+       font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+       font-family: 'PT Sans', sans-serif;
+}
+.left-block{
+	width: 536px;
+	background: #707070;
+	display: inline-block;
+	margin-right: 16px;
+	margin-top: 50px;
+	margin-bottom: 102px;
+}
+.right-block{
+	width: 536px;
+       background: #BE2B2B;
+       display: inline-block;
+}
+.text-block{
+	display: inline-block;
+	width: 260px;
+	vertical-align: middle;
+	margin-left: 16px;
+}
+.image-block{
+	vertical-align: middle;
+}
+.section{
+	width: 1088px;
+	margin: auto;
+}
+.box-1,
+.box-2,
+.box-3 {
+	width: 352px;
+	display:inline-block;
+	background: whitesmoke;
+	margin-top: 65px;
+}
+.text-box{
+	width: 352px;
+       text-align: center;
+       margin-top: 23px;
+       margin-bottom: 23px;
+ }
+.text3{
+	width: 260px;
+       text-align: center;
+       margin: 0 auto;
+       color: #707070;
+ }
+.box-2{
+	margin-left: 16px;
+       margin-right: 16px;
+}
+
